@@ -1,0 +1,28 @@
+{
+    "name": "Agency Title Switcher",
+    "class": "c-agency-title-switcher",
+    "version": "1.0.0",
+    "creator": {
+        "name": "Vinh Nguyen",
+        "github_username": "https://github.com/vinhnguyen0429"
+    },
+    "description": "This dynamically pulls in the agency title",
+    "standard_or_universal": "standard",
+    "parents": "",
+    "children": "",
+    "notes": {
+        "backend": "",
+        "frontend": ""
+    },
+    "backend_classes": {},
+    "has_js": false ,
+    "integrated": true,
+    "is_working": true,
+    "screenshot": "",
+    "example_link": "",
+    "changelog": [{
+        "date": "14/11/2017",
+        "author": "Vinh Nguyen",
+        "description": "Created component"
+    }]
+}
